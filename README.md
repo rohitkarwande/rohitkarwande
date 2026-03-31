@@ -1,60 +1,60 @@
-<h1 align="center">Hey 👋, I'm Rohit Karwande</h1>
-<h3 align="center">🚀 MERN Stack Developer | Hackathon Builder | Problem Solver</h3>
+🚀 Rohit Karwande
 
----
+💻 Turning caffeine into code and bugs into features!
 
-## 🧠 About Me
-- 🎓 Computer Engineering student at Mumbai University  
-- 💻 2+ years of experience building full-stack applications  
-- 🚀 Focused on **real-world problem solving**, not just tutorials  
-- 🏆 Active hackathon participant (24hr builds ⚡)  
-- 🤖 Exploring AI, automation & scalable systems  
+👨‍💻 About Me
+🎓 Computer Engineering student at Mumbai University (CGPA: 7.88)
+🧠 Passionate about AI, Full-Stack Development & Problem Solving
+🏆 Smart India Hackathon Winner
+📊 Built AI-powered fintech and real-time traffic systems
+🔍 Top 4% researcher at Mumbai University
+🛠️ Tech Stack
+💻 Languages
+JavaScript | Python | Java | HTML | CSS
+⚡ Frontend
+React.js | Tailwind CSS
+🔧 Backend
+Node.js | FastAPI | Flask
+🗄️ Databases
+MongoDB | MySQL | Firebase | Supabase | Pinecone
+🧠 Core Skills
+Data Structures & Algorithms
+OOP | DBMS
+Generative AI (RAG)
+Computer Vision
+🚀 Projects
+🔹 VahanGati – Smart Traffic Simulation
+🚦 Real-time traffic management using YOLOv8 & OpenCV
+⏱️ Adaptive signal timing (10s–60s) based on traffic density
+📊 Live dashboard with Flask + Socket.IO
+🏅 Top 4% @ Mumbai University (Aavishkar Selection)
 
----
+👉 View Project
 
-## 🔥 What Makes Me Different
-- 🚦 Built **Traffic Signal Automation Simulator** (real-world logic based system)  
-- 📄 Working on **AI + Blockchain Document Verification Platform**  
-- 🛠️ Developed multiple full-stack & UI-focused applications  
-- ⚡ I build projects that solve actual problems — not just clones  
+🔹 Attentify – AI Finance Platform
+📈 AI-powered portfolio generation system
+🤖 RAG-based assistant using Gemini AI + Pinecone
+📄 PDF analysis for financial insights
+📊 Dashboard with real-time news & sentiment analysis
 
----
+👉 View Project
 
-## 💻 Tech Stack
-- ⚛️ Frontend: React.js, HTML, CSS, JavaScript  
-- 🧠 Backend: Node.js, Express.js  
-- 🗄️ Database: MongoDB, MySQL  
-- 📱 Mobile: React Native, Flutter  
-- ⚙️ Tools: Git, Postman, Tailwind CSS  
+🏆 Achievements
+🥇 Smart India Hackathon (Internal Winner)
+🎯 Aavishkar Finalist (Top 17 Projects)
+💻 TSEC Hacks Participant
+🌱 Extracurricular
+NSS Volunteer (120+ hours)
+Worked on rural upliftment & social initiatives
+📫 Connect With Me
+📧 Email: rohitdk0809@gmail.com
+📱 Phone: +91 9021216657
+💼 LinkedIn: https://linkedin.com/in/rohit-karwande-880676265
+💻 GitHub: https://github.com/rohitkarwande
+⚡ Fun Fact
 
----
+If it’s broken, I’ll fix it… or blame JavaScript 😄
 
-## 🚀 Featured Projects
-- 🚦 Traffic Signal Automation Simulator  
-- 📄 AI + Blockchain Document Verification System  
-- 🛍️ E-commerce / Myntra Clone  
-- 🎧 Spotify Clone  
-- 🍔 Food Delivery App  
+⭐️ Show Some Love
 
----
-
-## 📊 GitHub Stats
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkarwande&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/rohit-karwande-880676265/  
-- 📸 Instagram: https://www.instagram.com/rohit_.0805/  
-- 📧 Email: rohitkarwande82@gmail.com  
-
----
-
-## ⚡ Fun Fact
-> I don’t just write code… I build solutions that actually matter 🚀  
-
----
-
-⭐️ *If you like my work, consider starring my repositories!*
+If you like my work, consider giving a ⭐️ to my repositories!
