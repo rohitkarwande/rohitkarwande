@@ -40,7 +40,7 @@
 - 📊 Live dashboard using Flask + Socket.IO  
 - 🏅 Top 4% @ Mumbai University (Aavishkar Selection)  
 
-🔗 **Repo:** https://github.com/your-repo-link
+🔗 **Repo:** https://github.com/rohitkarwande/VahanGati
 
 ---
 
@@ -50,7 +50,7 @@
 - 📄 PDF analysis for financial insights  
 - 📊 Dashboard with real-time news & sentiment analysis  
 
-🔗 **Repo:** https://github.com/your-repo-link
+🔗 **Repo:** https://github.com/Adarsh152004/Attentify
 
 ---
 
