@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Engineering student at **Mumbai University** (CGPA: 7.88)  
+- 🎓 Computer Engineering student at **Mumbai University** (CGPA: 7.94)  
 - 🧠 Passionate about **AI, Full-Stack Development & Problem Solving**  
 - 🏆 Smart India Hackathon Winner  
 - 📊 Built AI-powered fintech & real-time traffic systems  
